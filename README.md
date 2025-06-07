@@ -5,13 +5,15 @@ Passionate about **data sovereignty**, **public transparency**, and developing *
 
 ---
 
-## 🛠️ What I'm Currently Building
+## <img src="./tessera-logo.svg" alt="Tessera Tiles logo" width="34" align="top" />  What I'm Currently Building
 
-🚀 **[Tessera Tiles](https://github.com/JohnWWise/tessera-tiles)**  
+**[Tessera Tiles](https://github.com/JohnWWise/tessera-tiles)**
 An open-source, local-first knowledge vault built on **[Solid Pods](https://solidproject.org/)** and **[Linked Data](https://en.wikipedia.org/wiki/Linked_data)** principles.  
-Focused on **personal data sovereignty**, **offline-first** workflows, and **decentralized** architecture — empowering users to *own and structure their knowledge* on their terms.
+Focused on **personal data sovereignty**, **offline-first** workflows, and **decentralized** architecture — empowering users to *own and structure their data* on their terms.
 
-**Tech Stack**  
+---
+## 🧩 Tech Stack
+
 Python • R • SQL • TypeScript • PySpark • d3.js • React.js • Solid Ecosystem • RDF • SPARQL • Data Modeling • Data Mining • Statistical Analysis • Machine Learning • LangChain • LangSmith
 
 <small><i>Currently Exploring: Rust, Federated Learning, Decentralized Identity, Local-first AI</i></small>
@@ -21,7 +23,7 @@ Python • R • SQL • TypeScript • PySpark • d3.js • React.js • Solid
 ## 🎓 Education
 
 - **Bachelor of Science** in **Data Science**  
-  *Indiana University East* — Graduated with distinction as **Outstanding Student of the Year**
+  *Indiana University East* — Graduated with distinction as **2024 Outstanding Student of the Year**
 - **Associate of Arts** in **Liberal Arts**  
   *Earned during incarceration*, where I served as a GED instructor and peer tutor for students in Florida’s inaugural **Second Chance Pell** program.
 
@@ -32,10 +34,10 @@ Currently awaiting decision on admission to the **University of Florida's M.S. i
 ## 💼 Professional Experience
 
 - **AI Data Trainer** (Freelance via DataAnnotation.tech)  
-  Training AI systems in data analysis, data mining, and pattern recognition through high-integrity annotation and task design projects.
+  Contributing to the development of AI models in data analysis and data mining by providing high-quality annotations and structured evaluation feedback.
 
 - **Educator**  
-  Over a decade of experience in educational programming, GED instruction, and peer tutoring, including work in Florida’s inaugural **Second Chance Pell** program, focused on accessibility and second-chance education.
+  Over a decade of experience in educational programming, GED instruction, and peer tutoring, including work in Florida’s inaugural **Second Chance Pell** program.
 
 ---
 

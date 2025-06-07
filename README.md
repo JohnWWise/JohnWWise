@@ -5,9 +5,9 @@ Passionate about **data sovereignty**, **public transparency**, and developing *
 
 ---
 
-## <img src="./tessera-logo.svg" alt="Tessera Tiles logo" width="34" align="top" />  What I'm Currently Building
+## 🧱 What I'm Currently Building
 
-**[Tessera Tiles](https://github.com/JohnWWise/tessera-tiles)**
+<img src="./tessera-logo.svg" alt="Tessera Tiles logo" width="34" align="top" />  **[Tessera Tiles](https://github.com/JohnWWise/tessera-tiles)**
 An open-source, local-first knowledge vault built on **[Solid Pods](https://solidproject.org/)** and **[Linked Data](https://en.wikipedia.org/wiki/Linked_data)** principles.  
 Focused on **personal data sovereignty**, **offline-first** workflows, and **decentralized** architecture — empowering people to *own and structure their data* on their terms.
 

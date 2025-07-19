@@ -1,4 +1,8 @@
-# 🌾 Hi, I'm John Wise
+<h1 align="center">
+  <img src="./tessera-logo.svg" alt="Tessera Tiles Logo" width="44" style="vertical-align: middle;"/>
+  Hi, I'm John Wise
+</h1>
+
 
 ## 🧭 Welcome
 
